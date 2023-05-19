@@ -1,0 +1,11 @@
+@import "components/breadcrumb.css";
+@import "components/product-card.css";
+@import "components/project-card.css";
+@import "components/service-card.css";
+@import "layouts/navbar.css";
+@import "layouts/header.css";
+@import "layouts/footer.css";
+
+* {
+	transition: all .2s;
+}
