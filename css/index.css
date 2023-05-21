@@ -5,6 +5,7 @@
 @import "layouts/navbar.css";
 @import "layouts/header.css";
 @import "layouts/footer.css";
+@import "layouts/welcome-cover.css";
 
 * {
 	transition: all .2s;
